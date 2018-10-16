@@ -118,12 +118,17 @@
     <ClCompile Include="exercise-1.1.cpp" />
     <ClCompile Include="exercise-1.10.cpp" />
     <ClCompile Include="exercise-1.11.cpp" />
+    <ClCompile Include="exercise-1.13-10.cpp" />
+    <ClCompile Include="exercise-1.13-11.cpp" />
+    <ClCompile Include="exercise-1.13-9.cpp" />
+    <ClCompile Include="exercise-1.16.cpp" />
     <ClCompile Include="exercise-1.2.cpp" />
     <ClCompile Include="exercise-1.3.cpp" />
     <ClCompile Include="exercise-1.4.cpp" />
     <ClCompile Include="exercise-1.5.cpp" />
     <ClCompile Include="exercise-1.8.cpp" />
     <ClCompile Include="exercise-1.9.cpp" />
+    <ClCompile Include="for.cpp" />
     <ClCompile Include="io.cpp" />
     <ClCompile Include="while.cpp" />
   </ItemGroup>
