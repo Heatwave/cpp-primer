@@ -63,5 +63,11 @@
     <ClCompile Include="exercise-1.16.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="if.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise-1.19.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
