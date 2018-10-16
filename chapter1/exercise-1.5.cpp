@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main()
+int main5()
 {
 	std::cout << "Enter two numbers:" << std::endl;
 	int v1 = 0, v2 = 0;
