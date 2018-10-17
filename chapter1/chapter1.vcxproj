@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bookstore.cpp" />
     <ClCompile Include="exercise-1.1.cpp" />
     <ClCompile Include="exercise-1.10.cpp" />
     <ClCompile Include="exercise-1.11.cpp" />

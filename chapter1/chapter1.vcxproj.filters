@@ -81,6 +81,9 @@
     <ClCompile Include="exercise-1.23.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="bookstore.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Sales_item.h">
