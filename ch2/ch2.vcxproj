@@ -115,10 +115,28 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="exercise-2.15.cpp" />
+    <ClCompile Include="exercise-2.16.cpp" />
+    <ClCompile Include="exercise-2.17.cpp" />
+    <ClCompile Include="exercise-2.20.cpp" />
+    <ClCompile Include="exercise-2.21.cpp" />
+    <ClCompile Include="exercise-2.27.cpp" />
+    <ClCompile Include="exercise-2.28.cpp" />
     <ClCompile Include="exercise-2.3.cpp" />
+    <ClCompile Include="exercise-2.32.cpp" />
+    <ClCompile Include="exercise-2.33.cpp" />
+    <ClCompile Include="exercise-2.35.cpp" />
     <ClCompile Include="exercise-2.8.cpp" />
+    <ClCompile Include="exercise-3.36.cpp" />
+    <ClCompile Include="exercise-3.37.cpp" />
+    <ClCompile Include="exercise-3.39.cpp" />
+    <ClCompile Include="exercise-3.40.cpp" />
     <ClCompile Include="initialization.cpp" />
+    <ClCompile Include="Sales_data.cpp" />
     <ClCompile Include="type_convert.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Sales_data.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
