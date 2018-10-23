@@ -116,6 +116,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="exercise-3.10.cpp" />
+    <ClCompile Include="exercise-3.12.cpp" />
+    <ClCompile Include="exercise-3.13.cpp" />
+    <ClCompile Include="exercise-3.14.cpp" />
+    <ClCompile Include="exercise-3.15.cpp" />
     <ClCompile Include="exercise-3.2.cpp" />
     <ClCompile Include="exercise-3.4.cpp" />
     <ClCompile Include="exercise-3.5.1.cpp" />
@@ -130,6 +134,7 @@
     <ClCompile Include="string_random_access.cpp" />
     <ClCompile Include="toupper.cpp" />
     <ClCompile Include="using.cpp" />
+    <ClCompile Include="vector_initialization.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
