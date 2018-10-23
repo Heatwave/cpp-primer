@@ -5,7 +5,7 @@ using std::vector;
 using std::cin;
 using std::string;
 
-int main()
+int main15()
 {
 	string s;
 	vector<string> svec;
