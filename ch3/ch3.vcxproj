@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bsearch.cpp" />
     <ClCompile Include="exercise-3.10.cpp" />
     <ClCompile Include="exercise-3.12.cpp" />
     <ClCompile Include="exercise-3.13.cpp" />
@@ -127,6 +128,12 @@
     <ClCompile Include="exercise-3.2.cpp" />
     <ClCompile Include="exercise-3.20.1.cpp" />
     <ClCompile Include="exercise-3.20.2.cpp" />
+    <ClCompile Include="exercise-3.21.cpp" />
+    <ClCompile Include="exercise-3.22.cpp" />
+    <ClCompile Include="exercise-3.23.cpp" />
+    <ClCompile Include="exercise-3.24.1.cpp" />
+    <ClCompile Include="exercise-3.24.2.cpp" />
+    <ClCompile Include="exercise-3.25.cpp" />
     <ClCompile Include="exercise-3.4.cpp" />
     <ClCompile Include="exercise-3.5.1.cpp" />
     <ClCompile Include="exercise-3.5.2.cpp" />
