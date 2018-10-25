@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="array_iterator.cpp" />
     <ClCompile Include="bsearch.cpp" />
     <ClCompile Include="exercise-3.10.cpp" />
     <ClCompile Include="exercise-3.12.cpp" />
@@ -134,7 +135,18 @@
     <ClCompile Include="exercise-3.24.1.cpp" />
     <ClCompile Include="exercise-3.24.2.cpp" />
     <ClCompile Include="exercise-3.25.cpp" />
+    <ClCompile Include="exercise-3.27.cpp" />
+    <ClCompile Include="exercise-3.30.cpp" />
+    <ClCompile Include="exercise-3.31.cpp" />
+    <ClCompile Include="exercise-3.32.cpp" />
+    <ClCompile Include="exercise-3.35.cpp" />
+    <ClCompile Include="exercise-3.36.cpp" />
+    <ClCompile Include="exercise-3.37.cpp" />
+    <ClCompile Include="exercise-3.39.cpp" />
     <ClCompile Include="exercise-3.4.cpp" />
+    <ClCompile Include="exercise-3.40.cpp" />
+    <ClCompile Include="exercise-3.41.cpp" />
+    <ClCompile Include="exercise-3.42.cpp" />
     <ClCompile Include="exercise-3.5.1.cpp" />
     <ClCompile Include="exercise-3.5.2.cpp" />
     <ClCompile Include="exercise-3.6.cpp" />
@@ -143,6 +155,7 @@
     <ClCompile Include="exercise.3.11.cpp" />
     <ClCompile Include="range_for.cpp" />
     <ClCompile Include="scores_range.cpp" />
+    <ClCompile Include="scores_range_array.cpp" />
     <ClCompile Include="string_index.cpp" />
     <ClCompile Include="string_initialization.cpp" />
     <ClCompile Include="string_random_access.cpp" />
