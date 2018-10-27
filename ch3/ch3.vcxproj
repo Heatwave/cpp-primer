@@ -147,6 +147,9 @@
     <ClCompile Include="exercise-3.40.cpp" />
     <ClCompile Include="exercise-3.41.cpp" />
     <ClCompile Include="exercise-3.42.cpp" />
+    <ClCompile Include="exercise-3.43.cpp" />
+    <ClCompile Include="exercise-3.44.cpp" />
+    <ClCompile Include="exercise-3.45.cpp" />
     <ClCompile Include="exercise-3.5.1.cpp" />
     <ClCompile Include="exercise-3.5.2.cpp" />
     <ClCompile Include="exercise-3.6.cpp" />

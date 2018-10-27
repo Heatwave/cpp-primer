@@ -156,5 +156,14 @@
     <ClCompile Include="exercise-3.42.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="exercise-3.43.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise-3.44.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise-3.45.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
