@@ -133,6 +133,10 @@
     <ClCompile Include="exercise-4.28.cpp" />
     <ClCompile Include="exercise-4.29.cpp" />
     <ClCompile Include="exercise-4.30.cpp" />
+    <ClCompile Include="exercise-4.31.cpp" />
+    <ClCompile Include="exercise-4.33.cpp" />
+    <ClCompile Include="exercise-4.36.cpp" />
+    <ClCompile Include="exercise-4.37.cpp" />
     <ClCompile Include="exercise-4.4.cpp" />
     <ClCompile Include="exercise-4.5.cpp" />
     <ClCompile Include="exercise-4.6.cpp" />

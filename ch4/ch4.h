@@ -24,5 +24,9 @@ void exercise27();
 void exercise28();
 void exercise29();
 void exercise30();
+void exercise31();
+void exercise33();
+void exercise36();
+void exercise37();
 
 #endif // !CH4_H
