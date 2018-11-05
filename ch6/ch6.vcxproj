@@ -130,6 +130,8 @@
     <ClCompile Include="exercise32.cpp" />
     <ClCompile Include="exercise33.cpp" />
     <ClCompile Include="exercise34.cpp" />
+    <ClCompile Include="exercise37.cpp" />
+    <ClCompile Include="exercise38.cpp" />
     <ClCompile Include="exercise4.cpp" />
     <ClCompile Include="exercise5.cpp" />
     <ClCompile Include="exercise6.cpp" />

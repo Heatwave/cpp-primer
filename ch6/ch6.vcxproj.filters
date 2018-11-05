@@ -75,6 +75,12 @@
     <ClCompile Include="exercise34.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="exercise37.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise38.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ch6.h">
