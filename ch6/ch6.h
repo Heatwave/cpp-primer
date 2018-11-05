@@ -16,5 +16,9 @@ void exercise22();
 void exercise23();
 void exercise25(int argc, char **argv);
 void exercise27();
+void exercise30();
+void exercise32();
+void exercise33();
+void exercise34();
 
 #endif // !CH6_H
