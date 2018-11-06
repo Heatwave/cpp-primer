@@ -19,7 +19,11 @@ int main(int argc, char **argv)
 	//exercise30();
 	//exercise32();
 	//exercise33();
-	exercise34();
+	//exercise34();
+	//exercise42();
+	//exercise44();
+	//exercise47();
+	exercise51();
 
 	system("pause");
 	return EXIT_SUCCESS;

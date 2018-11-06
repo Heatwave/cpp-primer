@@ -2,6 +2,10 @@
 #ifndef CH6_H
 #define CH6_H
 
+#include <string>
+
+using std::string;
+
 int fact(int val);
 void exercise4();
 void exercise5();
@@ -20,5 +24,15 @@ void exercise30();
 void exercise32();
 void exercise33();
 void exercise34();
+void exercise42();
+
+inline bool isShorterInline(const string &s1, const string &s2)
+{
+	return s1.size() < s2.size();
+}
+
+void exercise44();
+void exercise47();
+void exercise51();
 
 #endif // !CH6_H
