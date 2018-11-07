@@ -23,7 +23,10 @@ int main(int argc, char **argv)
 	//exercise42();
 	//exercise44();
 	//exercise47();
-	exercise51();
+	//exercise51();
+	//exercise54();
+	//exercise55();
+	exercise56();
 
 	system("pause");
 	return EXIT_SUCCESS;

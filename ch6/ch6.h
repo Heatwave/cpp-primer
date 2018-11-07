@@ -35,4 +35,14 @@ void exercise44();
 void exercise47();
 void exercise51();
 
+int func(int, int);
+void exercise54();
+
+int plusFunc(int, int);
+int minusFunc(int, int);
+int multiFunc(int, int);
+int divideFunc(int, int);
+void exercise55();
+void exercise56();
+
 #endif // !CH6_H

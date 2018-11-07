@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="callback.cpp" />
     <ClCompile Include="exercise10.cpp" />
     <ClCompile Include="exercise11.cpp" />
     <ClCompile Include="exercise12.cpp" />
@@ -138,6 +139,9 @@
     <ClCompile Include="exercise47.cpp" />
     <ClCompile Include="exercise5.cpp" />
     <ClCompile Include="exercise51.cpp" />
+    <ClCompile Include="exercise54.cpp" />
+    <ClCompile Include="exercise55.cpp" />
+    <ClCompile Include="exercise56.cpp" />
     <ClCompile Include="exercise6.cpp" />
     <ClCompile Include="exercise7.cpp" />
     <ClCompile Include="main.cpp" />
