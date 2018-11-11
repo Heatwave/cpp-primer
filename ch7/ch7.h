@@ -8,5 +8,6 @@ int exercise7();
 int exercise9();
 int exercise11();
 int exercise13();
+int exercise21();
 
 #endif // !CH7_H

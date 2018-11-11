@@ -1,20 +1,20 @@
 #include <iostream>
 #include <cstdlib>
-#include "Sales_data.h"
+#include "Sales_data_class.h"
 
 using std::cin;
 using std::cout;
 using std::endl;
 
-int exercise13()
+int exercise21()
 {
-	Sales_data_struct total(cin);
+	Sales_data total(cin);
 	if (!total.isbn().empty())
 	{
 		std::istream &is = std::cin;
 		while (is)
 		{
-			Sales_data_struct trans(is);
+			Sales_data trans(is);
 			if (!is)
 				break;
 			if (total.isbn() == trans.isbn())

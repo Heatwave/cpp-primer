@@ -8,12 +8,12 @@ using std::endl;
 
 int exercise7()
 {
-	Sales_data total;
+	Sales_data_struct total;
 	double price = 0.0;
 
 	if (read(cin, total))
 	{
-		Sales_data trans;
+		Sales_data_struct trans;
 		while (read(cin, trans))
 		{
 			if (total.isbn() == trans.isbn())

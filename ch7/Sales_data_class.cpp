@@ -1,6 +1,6 @@
-#include "Sales_data.h"
+#include "Sales_data_class.h"
 
-double Sales_data_struct::avg_price() const
+double Sales_data::avg_price() const
 {
 	if (units_sold)
 		return revenue / units_sold;
@@ -8,27 +8,27 @@ double Sales_data_struct::avg_price() const
 		return 0;
 }
 
-Sales_data_struct& Sales_data_struct::combine(const Sales_data_struct &rhs)
+Sales_data& Sales_data::combine(const Sales_data &rhs)
 {
 	units_sold += rhs.units_sold;
 	revenue += rhs.revenue;
 	return *this;
 }
 
-Sales_data_struct add(const Sales_data_struct &lhs, const Sales_data_struct &rhs)
+Sales_data add(const Sales_data &lhs, const Sales_data &rhs)
 {
-	Sales_data_struct sum = lhs;
+	Sales_data sum = lhs;
 	sum.combine(rhs);
 	return sum;
 }
 
-std::ostream &print(std::ostream &os, const Sales_data_struct &item)
+std::ostream &print(std::ostream &os, const Sales_data &item)
 {
 	os << item.isbn() << " " << item.units_sold << " " << item.revenue << " " << item.avg_price();
 	return os;
 }
 
-std::istream &read(std::istream &is, Sales_data_struct &item)
+std::istream &read(std::istream &is, Sales_data &item)
 {
 	double price = 0;
 	is >> item.bookNo >> item.units_sold >> price;
