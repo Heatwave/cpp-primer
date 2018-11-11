@@ -4,5 +4,9 @@
 
 int exercise1();
 int exercise3();
+int exercise7();
+int exercise9();
+int exercise11();
+int exercise13();
 
 #endif // !CH7_H

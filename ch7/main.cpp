@@ -4,7 +4,11 @@
 int main()
 {
 	//exercise1();
-	exercise3();
+	//exercise3();
+	//exercise7();
+	//exercise9();
+	//exercise11();
+	exercise13();
 
 	system("pause");
 	return EXIT_SUCCESS;
