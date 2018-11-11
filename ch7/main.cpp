@@ -9,7 +9,8 @@ int main()
 	//exercise9();
 	//exercise11();
 	//exercise13();
-	exercise21();
+	//exercise21();
+	exercise27();
 
 	system("pause");
 	return EXIT_SUCCESS;

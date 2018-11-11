@@ -116,16 +116,20 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="ch7.h" />
+    <ClInclude Include="exercise31.h" />
     <ClInclude Include="Person.h" />
     <ClInclude Include="Person_class.h" />
     <ClInclude Include="Sales_data.h" />
     <ClInclude Include="Sales_data_class.h" />
+    <ClInclude Include="Screen.h" />
+    <ClInclude Include="Window_mgr.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="exercise1.cpp" />
     <ClCompile Include="exercise11.cpp" />
     <ClCompile Include="exercise13.cpp" />
     <ClCompile Include="exercise21.cpp" />
+    <ClCompile Include="exercise27.cpp" />
     <ClCompile Include="exercise3.cpp" />
     <ClCompile Include="exercise7.cpp" />
     <ClCompile Include="exercise9.cpp" />
@@ -133,6 +137,7 @@
     <ClCompile Include="Person.cpp" />
     <ClCompile Include="Sales_data.cpp" />
     <ClCompile Include="Sales_data_class.cpp" />
+    <ClCompile Include="Window_mgr.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
