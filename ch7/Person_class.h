@@ -15,7 +15,7 @@ private:
 public:
 	Person_class() = default;
 	Person_class(const string &n, const string &a) : name(n), address(a) {}
-	Person_class(std::istream &is)
+	explicit Person_class(std::istream &is)
 	{
 		is >> name >> address;
 	}

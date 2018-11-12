@@ -12,11 +12,14 @@ class Sales_data
 	friend std::istream &read(std::istream&, Sales_data&);
 
 public:
-	Sales_data() = default;
-	Sales_data(const std::string &s) : bookNo(s) {}
 	Sales_data(const std::string &s, unsigned n, double p) :
-		bookNo(s), units_sold(n), revenue(p*n) {}
-	Sales_data(std::istream &is)
+		bookNo(s), units_sold(n), revenue(p*n) {
+		std::cout << "constructor with 3 parameters" << std::endl;
+	}
+	Sales_data(const std::string &s) : Sales_data(s, 0, 0.0) {
+		std::cout << "constructor with 1 string parameter" << std::endl;
+	}
+	explicit Sales_data(std::istream &is = std::cin)
 	{
 		read(is, *this);
 	}
