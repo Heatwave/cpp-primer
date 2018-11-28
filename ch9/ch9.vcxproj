@@ -121,6 +121,12 @@
     <ClCompile Include="exercise10.cpp" />
     <ClCompile Include="exercise11.cpp" />
     <ClCompile Include="exercise13.cpp" />
+    <ClCompile Include="exercise14.cpp" />
+    <ClCompile Include="exercise15.cpp" />
+    <ClCompile Include="exercise16.cpp" />
+    <ClCompile Include="exercise18.cpp" />
+    <ClCompile Include="exercise19.cpp" />
+    <ClCompile Include="exercise20.cpp" />
     <ClCompile Include="exercise4.cpp" />
     <ClCompile Include="exercise5.cpp" />
     <ClCompile Include="main.cpp" />

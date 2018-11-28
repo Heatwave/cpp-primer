@@ -7,7 +7,12 @@ int main()
 	//exercise5();
 	//exercise10();
 	//exercise11();
-	exercise13();
+	//exercise13();
+	//exercise14();
+	//exercise15();
+	//exercise18();
+	//exercise19();
+	exercise20();
 
 	system("pause");
 	return EXIT_SUCCESS;
