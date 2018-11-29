@@ -12,5 +12,9 @@ void exercise15();
 void exercise18();
 void exercise19();
 void exercise20();
+void exercise24();
+void exercise26();
+void exercise27();
+void exercise28();
 
 #endif // !CH9_H
