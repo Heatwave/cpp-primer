@@ -16,7 +16,10 @@ int main()
 	//exercise24();
 	//exercise26();
 	//exercise27();
-	exercise28();
+	//exercise28();
+	//exercise31();
+	//exercise33();
+	exercise34();
 
 	system("pause");
 	return EXIT_SUCCESS;
