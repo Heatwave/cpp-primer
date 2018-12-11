@@ -19,7 +19,15 @@ int main()
 	//exercise28();
 	//exercise31();
 	//exercise33();
-	exercise34();
+	//exercise34();
+	//exercise38();
+	//exercise41();
+	//exercise43();
+	//exercise44();
+	//exercise45();
+	//exercise46();
+	//exercise47();
+	exercise49();
 
 	system("pause");
 	return EXIT_SUCCESS;

@@ -134,9 +134,20 @@
     <ClCompile Include="exercise31.cpp" />
     <ClCompile Include="exercise33.cpp" />
     <ClCompile Include="exercise34.cpp" />
+    <ClCompile Include="exercise38.cpp" />
     <ClCompile Include="exercise4.cpp" />
+    <ClCompile Include="exercise41.cpp" />
+    <ClCompile Include="exercise43.cpp" />
+    <ClCompile Include="exercise44.cpp" />
+    <ClCompile Include="exercise45.cpp" />
+    <ClCompile Include="exercise46.cpp" />
+    <ClCompile Include="exercise47.cpp" />
+    <ClCompile Include="exercise49.cpp" />
     <ClCompile Include="exercise5.cpp" />
     <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="words.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
