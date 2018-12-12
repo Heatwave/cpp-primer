@@ -27,5 +27,7 @@ void exercise45();
 void exercise46();
 void exercise47();
 void exercise49();
+void exer50();
+void exer51();
 
 #endif // !CH9_H

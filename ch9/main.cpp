@@ -27,7 +27,9 @@ int main()
 	//exercise45();
 	//exercise46();
 	//exercise47();
-	exercise49();
+	//exercise49();
+	//exer50();
+	exer51();
 
 	system("pause");
 	return EXIT_SUCCESS;

@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="ch9.h" />
+    <ClInclude Include="MyDate.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="exercise10.cpp" />
@@ -144,6 +145,8 @@
     <ClCompile Include="exercise47.cpp" />
     <ClCompile Include="exercise49.cpp" />
     <ClCompile Include="exercise5.cpp" />
+    <ClCompile Include="exercise50.cpp" />
+    <ClCompile Include="exericse51.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
