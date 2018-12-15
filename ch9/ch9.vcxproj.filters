@@ -110,6 +110,9 @@
     <ClCompile Include="exericse51.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="exer52.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="words.txt">

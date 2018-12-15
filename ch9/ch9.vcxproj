@@ -119,6 +119,7 @@
     <ClInclude Include="MyDate.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="exer52.cpp" />
     <ClCompile Include="exercise10.cpp" />
     <ClCompile Include="exercise11.cpp" />
     <ClCompile Include="exercise13.cpp" />
