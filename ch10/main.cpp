@@ -11,7 +11,16 @@ int main()
 	//exer9();
 	//exer11();
 	//exer12();
-	exer13();
+	//exer13();
+	//exer16();
+	//exer17();
+	//exer18();
+	//exer19();
+	//exer20();
+	//exer21();
+	//exer22();
+	//exer24();
+	exer25();
 
 	system("pause");
 	return EXIT_SUCCESS;

@@ -2,6 +2,7 @@
 #include <string>
 #include <vector>
 #include <algorithm>
+#include "ch10.h"
 
 using std::cout;
 using std::endl;
