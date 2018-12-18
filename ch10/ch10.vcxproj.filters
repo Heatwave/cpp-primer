@@ -83,5 +83,11 @@
     <ClCompile Include="exer25.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="exer27.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exer28.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

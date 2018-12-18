@@ -133,6 +133,8 @@
     <ClCompile Include="exer22.cpp" />
     <ClCompile Include="exer24.cpp" />
     <ClCompile Include="exer25.cpp" />
+    <ClCompile Include="exer27.cpp" />
+    <ClCompile Include="exer28.cpp" />
     <ClCompile Include="exer3.cpp" />
     <ClCompile Include="exer4.cpp" />
     <ClCompile Include="exer6.cpp" />

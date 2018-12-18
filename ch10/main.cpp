@@ -20,7 +20,9 @@ int main()
 	//exer21();
 	//exer22();
 	//exer24();
-	exer25();
+	//exer25();
+	//exer27();
+	exer28();
 
 	system("pause");
 	return EXIT_SUCCESS;

@@ -29,5 +29,7 @@ void exer21();
 void exer22();
 void exer24();
 void exer25();
+void exer27();
+void exer28();
 
 #endif // !CH10_H
