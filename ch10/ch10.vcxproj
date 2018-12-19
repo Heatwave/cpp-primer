@@ -117,6 +117,7 @@
   <ItemGroup>
     <ClInclude Include="ch10.h" />
     <ClInclude Include="Sales_data_class.h" />
+    <ClInclude Include="Sales_item.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="exer1.cpp" />
@@ -135,12 +136,25 @@
     <ClCompile Include="exer25.cpp" />
     <ClCompile Include="exer27.cpp" />
     <ClCompile Include="exer28.cpp" />
+    <ClCompile Include="exer29.cpp" />
     <ClCompile Include="exer3.cpp" />
+    <ClCompile Include="exer30.cpp" />
+    <ClCompile Include="exer31.cpp" />
+    <ClCompile Include="exer32.cpp" />
+    <ClCompile Include="exer33.cpp" />
+    <ClCompile Include="exer34.cpp" />
+    <ClCompile Include="exer35.cpp" />
+    <ClCompile Include="exer36.cpp" />
+    <ClCompile Include="exer37.cpp" />
     <ClCompile Include="exer4.cpp" />
     <ClCompile Include="exer6.cpp" />
     <ClCompile Include="exer9.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Sales_data_class.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="numbers.txt" />
+    <Text Include="words.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -31,5 +31,14 @@ void exer24();
 void exer25();
 void exer27();
 void exer28();
+void exer29();
+void exer30();
+void exer31();
+void exer32();
+void exer33();
+void exer34();
+void exer35();
+void exer36();
+void exer37();
 
 #endif // !CH10_H

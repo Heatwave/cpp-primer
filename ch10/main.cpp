@@ -22,7 +22,16 @@ int main()
 	//exer24();
 	//exer25();
 	//exer27();
-	exer28();
+	//exer28();
+	//exer29();
+	//exer30();
+	//exer31();
+	//exer32();
+	//exer33();
+	//exer34();
+	//exer35();
+	//exer36();
+	exer37();
 
 	system("pause");
 	return EXIT_SUCCESS;
