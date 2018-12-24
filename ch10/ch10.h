@@ -40,5 +40,6 @@ void exer34();
 void exer35();
 void exer36();
 void exer37();
+void exer42();
 
 #endif // !CH10_H

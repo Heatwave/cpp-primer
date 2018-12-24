@@ -149,6 +149,7 @@
     <ClCompile Include="exer4.cpp" />
     <ClCompile Include="exer6.cpp" />
     <ClCompile Include="exer9.cpp" />
+    <ClCompile Include="exercise42.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Sales_data_class.cpp" />
   </ItemGroup>

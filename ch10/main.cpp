@@ -8,7 +8,7 @@ int main()
 	//exer3();
 	//exer4();
 	//exer6();
-	//exer9();
+	exer9();
 	//exer11();
 	//exer12();
 	//exer13();
@@ -31,7 +31,8 @@ int main()
 	//exer34();
 	//exer35();
 	//exer36();
-	exer37();
+	//exer37();
+	exer42();
 
 	system("pause");
 	return EXIT_SUCCESS;
